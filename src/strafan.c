@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "compf.h"
+#include "../include/compf.h"
+#include "../include/loadbar.h"
 
 /**
  * strafan, short for "Shodan's Traffic Analyzer", is a program written as an auxiliator for a mini-project for the
